@@ -1,0 +1,14 @@
+.container{
+    width: 40%;
+}
+.oldPrice{
+    text-decoration: line-through;
+}
+.smallImg{
+    width: 40%;
+    display: flex;
+}
+.smallImg img{
+    width: 100px;
+    width: 60px;
+}
